@@ -198,7 +198,7 @@ const ProfileCard = () => {
                 darkMode ? "text-purple-400" : "text-blue-600"
               }`}
             >
-              Frontend Developer
+              Junior Software Engineer
             </h2>
             <p
               className={`text-sm ${
