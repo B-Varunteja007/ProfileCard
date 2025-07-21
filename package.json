@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "homepage": "https://B-Varunteja007.github.io/ProfileCard"
+
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
